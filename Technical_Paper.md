@@ -48,7 +48,7 @@ If I add one record to it as an Aman who has sid as 1342 and amount 5000.
 If I remove the record of Satyanand it will be no longer visible to us.
 
 | Sid           | Sname         | Amount |
-| ------------- |:-------------:| -8-----:|
+| ------------- |:-------------:| ------:|
 |1280           |Shivanand      | 1000   |
 |1150           |Abhay          | 700    |
 |1342           |Aman           | 5000   |
